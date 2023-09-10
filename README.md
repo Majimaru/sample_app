@@ -9,3 +9,4 @@
 #### 配置成果物
 ・【Rails】find, find_by, whereを理解しよう
 ・【Rails】RSpecを使ってRailsアプリケーションをテストしてみよう
+・【Rails】dotenv-railsを導入してみよう
